@@ -1,6 +1,6 @@
 [
  {
-   "Chiave": "",
+   "Chiave": "Desio - Comunale 1",
    "Farmacia": "COMUNALE N. 1",
    "Citta": "DESIO",
    "Indirizzo": "Via Garibaldi 275",
@@ -9,7 +9,7 @@
    "Longitudine": 9.203835
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Comunale 2",
    "Farmacia": "COMUNALE N. 2",
    "Citta": "DESIO",
    "Indirizzo": "C.so Italia 30",
@@ -18,7 +18,7 @@
    "Longitudine": 9.207725
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Comunale 3",
    "Farmacia": "COMUNALE N. 3",
    "Citta": "DESIO",
    "Indirizzo": "Via Sempione 2",
@@ -27,7 +27,7 @@
    "Longitudine": 9.189461
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Galbiati",
    "Farmacia": "GALBIATI SNC",
    "Citta": "DESIO",
    "Indirizzo": "Via Partigiani d'Italia 2",
@@ -36,7 +36,7 @@
    "Longitudine": 9.210079
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Moroni",
    "Farmacia": "MORONI",
    "Citta": "DESIO",
    "Indirizzo": "Via Milano n. 187",
@@ -45,7 +45,7 @@
    "Longitudine": 9.199884
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Piccaluga",
    "Farmacia": "PICCALUGA",
    "Citta": "DESIO",
    "Indirizzo": "Via Garibaldi 25",
@@ -54,7 +54,7 @@
    "Longitudine": 9.206999
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - Ravasi",
    "Farmacia": "RAVASI",
    "Citta": "DESIO",
    "Indirizzo": "C.so Italia 131",
@@ -63,7 +63,7 @@
    "Longitudine": 9.208222
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - San Carlo",
    "Farmacia": "S. CARLO",
    "Citta": "DESIO",
    "Indirizzo": "Via De Gasperi 21",
@@ -72,7 +72,7 @@
    "Longitudine": 9.201274
  },
  {
-   "Chiave": "",
+   "Chiave": "Desio - San Giorgio",
    "Farmacia": "S. GIORGIO",
    "Citta": "DESIO",
    "Indirizzo": "Via Tagliabue 123",
@@ -81,7 +81,7 @@
    "Longitudine": 9.228484
  },
  {
-   "Chiave": "",
+   "Chiave": "Muggiò - Comunale 1",
    "Farmacia": "COMUNALE N. 1",
    "Citta": "MUGGIO'",
    "Indirizzo": "Via I Maggio 8",
@@ -90,7 +90,7 @@
    "Longitudine": 9.231857
  },
  {
-   "Chiave": "",
+   "Chiave": "Muggiò - Comunale 2",
    "Farmacia": "COMUNALE N. 2",
    "Citta": "MUGGIO'",
    "Indirizzo": "P.zza Libero Grassi 3",
@@ -99,7 +99,7 @@
    "Longitudine": 9.229585
  },
  {
-   "Chiave": "",
+   "Chiave": "Muggiò - Comunale 3",
    "Farmacia": "COMUNALE N. 3",
    "Citta": "MUGGIO'",
    "Indirizzo": "V.le della Repubblica 86",
@@ -108,7 +108,7 @@
    "Longitudine": 9.217026
  },
  {
-   "Chiave": "",
+   "Chiave": "Muggiò - San Carlo",
    "Farmacia": "S. CARLO",
    "Citta": "MUGGIO'",
    "Indirizzo": "Via Liberta' 45-47",
@@ -117,7 +117,7 @@
    "Longitudine": 9.223445
  },
  {
-   "Chiave": "",
+   "Chiave": "Muggiò - Facchinetti",
    "Farmacia": "TRIVULZIO-FACCHINETTI",
    "Citta": "MUGGIO'",
    "Indirizzo": "P.za Garibaldi 3",
@@ -126,7 +126,7 @@
    "Longitudine": 9.226544
  },
  {
-   "Chiave": "",
+   "Chiave": "Nova - Comunale 1",
    "Farmacia": "COMUNALE N. 1",
    "Citta": "NOVA MILANESE",
    "Indirizzo": "Via Madonnina 9",
@@ -135,7 +135,7 @@
    "Longitudine": 9.201301
  },
  {
-   "Chiave": "",
+   "Chiave": "Nova - Comunale 2",
    "Farmacia": "COMUNALE N. 2",
    "Citta": "NOVA MILANESE",
    "Indirizzo": "Via Locatelli 2",
@@ -144,7 +144,7 @@
    "Longitudine": 9.197137
  },
  {
-   "Chiave": "",
+   "Chiave": "Nova - Comunale 3",
    "Farmacia": "COMUNALE N. 3",
    "Citta": "NOVA MILANESE",
    "Indirizzo": "Via Ugo Foscolo n. 5",
@@ -153,7 +153,7 @@
    "Longitudine": 9.208716
  },
  {
-   "Chiave": "",
+   "Chiave": "Nova - Futura",
    "Farmacia": "FUTURA DI VALLE RHO SAS",
    "Citta": "NOVA MILANESE",
    "Indirizzo": "Via XX Settembre 4",
@@ -162,7 +162,7 @@
    "Longitudine": 9.196461
  },
  {
-   "Chiave": "",
+   "Chiave": "Nova - Nova s.a.s.",
    "Farmacia": "NOVA SAS",
    "Citta": "NOVA MILANESE",
    "Indirizzo": "Via G. Brodolini 1",
