@@ -1,173 +1,173 @@
 [
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 1",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Garibaldi 275",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 2",
-    "Citta": "DESIO",
-    "Indirizzo": "C.so Italia 30",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 3",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Sempione 2",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "GALBIATI SNC",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Partigiani d'Italia 2",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "MORONI",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Milano n. 187",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "PICCALUGA",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Garibaldi 25",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "RAVASI",
-    "Citta": "DESIO",
-    "Indirizzo": "C.so Italia 131",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "S. CARLO",
-    "Citta": "DESIO",
-    "Indirizzo": "Via De Gasperi 21",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "S. GIORGIO",
-    "Citta": "DESIO",
-    "Indirizzo": "Via Tagliabue 123",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 1",
-    "Citta": "MUGGIO'",
-    "Indirizzo": "Via I Maggio 8",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 2",
-    "Citta": "MUGGIO'",
-    "Indirizzo": "P.zza Libero Grassi 3",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 3",
-    "Citta": "MUGGIO'",
-    "Indirizzo": "V.le della Repubblica 86",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "S. CARLO",
-    "Citta": "MUGGIO'",
-    "Indirizzo": "Via Liberta' 45-47",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "TRIVULZIO-FACCHINETTI",
-    "Citta": "MUGGIO'",
-    "Indirizzo": "P.za Garibaldi 3",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 1",
-    "Citta": "NOVA MILANESE",
-    "Indirizzo": "Via Madonnina 9",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 2",
-    "Citta": "NOVA MILANESE",
-    "Indirizzo": "Via Locatelli 2",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "COMUNALE N. 3",
-    "Citta": "NOVA MILANESE",
-    "Indirizzo": "Via Ugo Foscolo n. 5",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "FUTURA DI VALLE RHO SAS",
-    "Citta": "NOVA MILANESE",
-    "Indirizzo": "Via XX Settembre 4",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  },
-  {
-    "Chiave": "",
-    "Farmacia": "NOVA SAS",
-    "Citta": "NOVA MILANESE",
-    "Indirizzo": "Via G. Brodolini 1",
-    "Telefono": "",
-    "Latitudine": "",
-    "Longitudine": ""
-  }
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 1",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Garibaldi 275",
+   "Telefono": "",
+   "Latitudine": 45.608277,
+   "Longitudine": 9.203835
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 2",
+   "Citta": "DESIO",
+   "Indirizzo": "C.so Italia 30",
+   "Telefono": "",
+   "Latitudine": 45.618349,
+   "Longitudine": 9.207725
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 3",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Sempione 2",
+   "Telefono": "",
+   "Latitudine": 45.619569,
+   "Longitudine": 9.189461
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "GALBIATI SNC",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Partigiani d'Italia 2",
+   "Telefono": "",
+   "Latitudine": 45.612098,
+   "Longitudine": 9.210079
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "MORONI",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Milano n. 187",
+   "Telefono": "",
+   "Latitudine": 45.617423,
+   "Longitudine": 9.199884
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "PICCALUGA",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Garibaldi 25",
+   "Telefono": "",
+   "Latitudine": 45.616556,
+   "Longitudine": 9.206999
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "RAVASI",
+   "Citta": "DESIO",
+   "Indirizzo": "C.so Italia 131",
+   "Telefono": "",
+   "Latitudine": 45.622591,
+   "Longitudine": 9.208222
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "S. CARLO",
+   "Citta": "DESIO",
+   "Indirizzo": "Via De Gasperi 21",
+   "Telefono": "",
+   "Latitudine": 45.628531,
+   "Longitudine": 9.201274
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "S. GIORGIO",
+   "Citta": "DESIO",
+   "Indirizzo": "Via Tagliabue 123",
+   "Telefono": "",
+   "Latitudine": 45.622883,
+   "Longitudine": 9.228484
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 1",
+   "Citta": "MUGGIO'",
+   "Indirizzo": "Via I Maggio 8",
+   "Telefono": "",
+   "Latitudine": 45.594973,
+   "Longitudine": 9.231857
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 2",
+   "Citta": "MUGGIO'",
+   "Indirizzo": "P.zza Libero Grassi 3",
+   "Telefono": "",
+   "Latitudine": 45.58033,
+   "Longitudine": 9.229585
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 3",
+   "Citta": "MUGGIO'",
+   "Indirizzo": "V.le della Repubblica 86",
+   "Telefono": "",
+   "Latitudine": 45.589798,
+   "Longitudine": 9.217026
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "S. CARLO",
+   "Citta": "MUGGIO'",
+   "Indirizzo": "Via Liberta' 45-47",
+   "Telefono": "",
+   "Latitudine": 45.597832,
+   "Longitudine": 9.223445
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "TRIVULZIO-FACCHINETTI",
+   "Citta": "MUGGIO'",
+   "Indirizzo": "P.za Garibaldi 3",
+   "Telefono": "",
+   "Latitudine": 45.592992,
+   "Longitudine": 9.226544
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 1",
+   "Citta": "NOVA MILANESE",
+   "Indirizzo": "Via Madonnina 9",
+   "Telefono": "",
+   "Latitudine": 45.589242,
+   "Longitudine": 9.201301
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 2",
+   "Citta": "NOVA MILANESE",
+   "Indirizzo": "Via Locatelli 2",
+   "Telefono": "",
+   "Latitudine": 45.592332,
+   "Longitudine": 9.197137
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "COMUNALE N. 3",
+   "Citta": "NOVA MILANESE",
+   "Indirizzo": "Via Ugo Foscolo n. 5",
+   "Telefono": "",
+   "Latitudine": 45.590646,
+   "Longitudine": 9.208716
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "FUTURA DI VALLE RHO SAS",
+   "Citta": "NOVA MILANESE",
+   "Indirizzo": "Via XX Settembre 4",
+   "Telefono": "",
+   "Latitudine": 45.588979,
+   "Longitudine": 9.196461
+ },
+ {
+   "Chiave": "",
+   "Farmacia": "NOVA SAS",
+   "Citta": "NOVA MILANESE",
+   "Indirizzo": "Via G. Brodolini 1",
+   "Telefono": "",
+   "Latitudine": 45.58338,
+   "Longitudine": 9.19506
+ }
 ]
