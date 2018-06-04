@@ -1,1703 +1,219 @@
 [
   {
     "Giorno": 1,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": "Desio - San Giorgio"
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
+    "Turno2": ""
   },
   {
     "Giorno": 2,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 3,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 4,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - San Carlo",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 5,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 3",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 6,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Piccaluga",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 7,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Facchinetti",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 8,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": "Nova - Comunale 3"
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
+    "Turno2": ""
   },
   {
     "Giorno": 9,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 10,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Galbiati",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 11,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 1",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 12,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Ravasi",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 13,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 1",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 14,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 2",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 15,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": "Desio - Comunale 1"
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
+    "Turno2": ""
   },
   {
     "Giorno": 16,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Moroni",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 17,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 2",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 18,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Piccaluga",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 19,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - San Carlo",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 20,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 21,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Nova s.a.s.",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 22,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": "Muggiò - San Carlo"
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
+    "Turno2": ""
   },
   {
     "Giorno": 23,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 24,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - San Giorgio",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 25,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 3",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 26,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 3",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 27,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Facchinetti",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 28,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Galbiati",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 29,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
-    "Turno2": "Desio - Piccaluga"
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
+    "Turno2": ""
   },
   {
     "Giorno": 30,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Desio - Ravasi",
+    "Mese": 6,
+    "Anno": 2018,
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   },
   {
     "Giorno": 31,
-    "Mese": 10,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": "Muggiò - Comunale 2"
-  },
-  {
-    "Giorno": 2,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 5,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": "Nova - Comunale 1"
-  },
-  {
-    "Giorno": 6,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 7,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 9,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 12,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": "Desio - Moroni"
-  },
-  {
-    "Giorno": 13,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 19,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": "Muggiò - Facchinetti"
-  },
-  {
-    "Giorno": 20,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 26,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": "Desio - Ravasi"
-  },
-  {
-    "Giorno": 27,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 29,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 30,
-    "Mese": 11,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 2,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": "Nova - Nova s.a.s."
-  },
-  {
-    "Giorno": 4,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 5,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 7,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
-    "Turno2": "Desio - Comunale 3"
-  },
-  {
-    "Giorno": 9,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": "Desio - San Carlo"
-  },
-  {
-    "Giorno": 11,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 12,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": "Muggiò - Comunale 3"
-  },
-  {
-    "Giorno": 18,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 19,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": "Desio - Comunale 2"
-  },
-  {
-    "Giorno": 25,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": "Nova - Futura"
-  },
-  {
-    "Giorno": 26,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": "Desio - Piccaluga"
-  },
-  {
-    "Giorno": 27,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 29,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 30,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 31,
-    "Mese": 12,
-    "Anno": 2017,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": "Muggiò - Comunale 3"
-  },
-  {
-    "Giorno": 1,
-    "Mese": 1,
+    "Mese": 6,
     "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": "Desio - Galbiati"
-  },
-  {
-    "Giorno": 2,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 5,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": "Nova - Futura"
-  },
-  {
-    "Giorno": 7,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": "Desio - San Giorgio"
-  },
-  {
-    "Giorno": 8,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 9,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 12,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": "Muggiò - Comunale 3"
-  },
-  {
-    "Giorno": 15,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 19,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": "Desio - Comunale 1"
-  },
-  {
-    "Giorno": 22,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 26,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 27,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": "Nova - Comunale 2"
-  },
-  {
-    "Giorno": 29,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 30,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 31,
-    "Mese": 1,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 2,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": "Desio - Galbiati"
-  },
-  {
-    "Giorno": 5,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 7,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 9,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": "Muggiò - Comunale 1"
-  },
-  {
-    "Giorno": 12,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": "Desio - Ravasi"
-  },
-  {
-    "Giorno": 19,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": "Nova - Comunale 3"
-  },
-  {
-    "Giorno": 26,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 27,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 2,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 2,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": "Desio - Comunale 3"
-  },
-  {
-    "Giorno": 5,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 7,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 9,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": "Muggiò - San Carlo"
-  },
-  {
-    "Giorno": 12,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": "Desio - Piccaluga"
-  },
-  {
-    "Giorno": 19,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": "Nova - Comunale 1"
-  },
-  {
-    "Giorno": 26,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 27,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 29,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 30,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 31,
-    "Mese": 3,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": "Desio - Ravasi"
-  },
-  {
-    "Giorno": 2,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": "Nova - Comunale 1"
-  },
-  {
-    "Giorno": 3,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 5,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 7,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": "Muggiò - Facchinetti"
-  },
-  {
-    "Giorno": 9,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 12,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 14,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": "Desio - Comunale 2"
-  },
-  {
-    "Giorno": 16,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 19,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 21,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": "Nova - Nova s.a.s."
-  },
-  {
-    "Giorno": 23,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": "Desio - Moroni"
-  },
-  {
-    "Giorno": 26,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 27,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 28,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 29,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 1",
-    "Turno2": "Desio - San Giorgio"
-  },
-  {
-    "Giorno": 30,
-    "Mese": 4,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 1,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": "Desio - Comunale 1"
-  },
-  {
-    "Giorno": 2,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 3,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 4,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 5,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 6,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": "Muggiò - Comunale 2"
-  },
-  {
-    "Giorno": 7,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 8,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 9,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 10,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 11,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 12,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 13,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 3",
-    "Turno2": "Desio - San Carlo"
-  },
-  {
-    "Giorno": 14,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Galbiati",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 15,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Facchinetti",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 16,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Ravasi",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 17,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Futura",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 18,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 19,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 20,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Moroni",
-    "Turno2": "Nova - Futura"
-  },
-  {
-    "Giorno": 21,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 22,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - San Giorgio",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 23,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 24,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 1",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 25,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Comunale 2",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 26,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - San Carlo",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 27,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - San Carlo",
-    "Turno2": "Desio - Ravasi"
-  },
-  {
-    "Giorno": 28,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Piccaluga",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 29,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Nova - Nova s.a.s.",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 30,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Desio - Comunale 3",
-    "Turno2": ""
-  },
-  {
-    "Giorno": 31,
-    "Mese": 5,
-    "Anno": 2018,
-    "Turno1": "Muggiò - Comunale 3",
+    "Turno1": "NON DISPONIBILE",
     "Turno2": ""
   }
 ]
